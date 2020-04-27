@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'ZumcareApp',
+	'hostname' => 'q7cxv1zwcdlw7699.chr7pe7iynqr.eu-west-1.rds.amazonaws.com:3306/',
+	'username' => 'wsmtaaiw9vaoobn5',
+	'password' => 'pmr6b2abl5vnvwz6',
+	'database' => 'oa3uqf5zaeitkkkg',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
