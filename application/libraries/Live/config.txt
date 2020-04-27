@@ -1,0 +1,11 @@
+MERCHANT_CERTIFICATE_ID = "c183e97a";
+MERCHANT_NAME = "Mobi.Doctor";
+PRIVATE_KEY_FN = "./application/libraries/Live/cert.prv";
+PRIVATE_KEY_PASS = "WDfUveEf9i3";
+XML_TEMPLATE_FN = "./application/libraries/Live/template.xml";
+XML_COMMAND_TEMPLATE_FN = "./application/libraries/Live/command_template.xml";
+XML_ADDCARD_TEMPLATE_FN = "./application/libraries/Live/default_card2.xml";
+XML_DELETECARD_TEMPLATE_FN = "./application/libraries/Live/delete_cards_template.xml";
+XML_PAYMENTBYCARD_TEMPLATE_FN = "./application/libraries/Live/payment_by_card_template.xml";
+PUBLIC_KEY_FN = "./application/libraries/Live/kkbca.pem";
+MERCHANT_ID="98013951";

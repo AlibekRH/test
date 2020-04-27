@@ -1,0 +1,11 @@
+MERCHANT_CERTIFICATE_ID = "00c183d70b";
+MERCHANT_NAME = "Test shop 3";
+PRIVATE_KEY_FN = "./application/libraries/test/cert.prv";
+PRIVATE_KEY_PASS = "1q2w3e4r";
+XML_TEMPLATE_FN = "./application/libraries/test/template.xml";
+XML_COMMAND_TEMPLATE_FN = "./application/libraries/test/command_template.xml";
+XML_ADDCARD_TEMPLATE_FN = "./application/libraries/test/default_card2.xml";
+XML_DELETECARD_TEMPLATE_FN = "./application/libraries/test/delete_cards_template.xml";
+XML_PAYMENTBYCARD_TEMPLATE_FN = "./application/libraries/test/payment_by_card_template.xml";
+PUBLIC_KEY_FN = "./application/libraries/test/kkbca.pem";
+MERCHANT_ID="92061103";

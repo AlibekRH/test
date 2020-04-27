@@ -1,0 +1,1 @@
+<merchant name="[MERCHANT_NAME]"><order order_id="[ORDER_ID]" amount="[AMOUNT]" currency="[CURRENCY]" type="[TYPE]"><department main="[MERCHANT_ID]" benef="[MERCHANT_ID]" abonent_id="[ABONENT_ID]" recepient="[RECEPIENT]" card_id="[CARD_ID]"/></order></merchant>
